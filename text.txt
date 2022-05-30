@@ -1,0 +1,21 @@
+A a 
+B b 
+C c 
+ D d 
+F f 
+J j 
+E e 
+W w 
+T t 
+U u  
+H h 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
